@@ -1,3 +1,16 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
 .input{
     margin-top: 40px;
+    
+    
+   /* display: flex;
+    flex-wrap: wrap;
+
+    */
+}
+.printRes{
+    margin: 8 0;
 }
