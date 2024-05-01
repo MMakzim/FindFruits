@@ -1,15 +1,21 @@
 .body{
     margin: 0;
     padding: 0;
+    
 }
 .input{
-    margin-top: 40px;
-    
-    
-   /* display: flex;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
     flex-wrap: wrap;
-
-    */
+    width: 300px;
+ 
+}
+.inputText{
+    margin-top: 20px;
+}
+.input>label{
+    margin-top: 20px;
 }
 .printRes{
     margin: 8 0;
